@@ -1,4 +1,4 @@
-class Lista:
+lass Lista:
 
 	def gerarListaParOrdenada (self, lista):
 		listaPar = []
